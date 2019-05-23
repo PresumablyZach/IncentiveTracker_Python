@@ -1,0 +1,2 @@
+{Avengers:Iron Man;100;Zach,56;Ivonne,44:Captain America;98;Tim,90;Jesse,8:Hulk;64;Snow,32;Laura,32
+{Spider-Man:Spider-Man;52;Zach,24;Jesse,24;Ivonne,4:Mysterio;60;Tim,30;Snow,10;Laura,20
